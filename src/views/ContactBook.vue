@@ -22,7 +22,7 @@
           <i class="fas fa-plus"></i> Thêm mới
         </button>
         <button class="btn btn-sm btn-danger" @click="removeAllContacts">
-          <i class="fa-solid fa-trash-can"></i> Xóa tất cả
+          <i class="fa-solid fa-trash-can"></i> Xóa tất cả
         </button>
       </div>
     </div>
